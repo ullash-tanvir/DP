@@ -6,5 +6,7 @@ The following configurations are specified for each dataset to optimize model pe
 	•	QQP: "lambda": 1e-6, "noise_multiplier": 0.66, "num_labels": 2
 	•	MNLI: "lambda": 1e-6, "noise_multiplier": 0.65, "num_labels": 3
 Learning rate: 5e-4
+
 Epochs: 50
+
 Batch: 1024
